@@ -61,7 +61,7 @@ DEFAULT_PARAMS = {
     "width": 720,
     "height": 720,
     "frame_count": 97,
-    "steps": 20,
+    "steps": 8,
     "cfg": 4.0,
     "fps": 25,
     "seed": None,
